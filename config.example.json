@@ -1,0 +1,8 @@
+{
+  "relayRepo": "~/clawd/projects/openclaw-browser-relay-rewrite",
+  "openExtensionsAfterUpdate": true,
+  "openTokenHelperTab": false,
+  "tokenEnvVar": "OPENCLAW_GATEWAY_TOKEN",
+  "browserApp": "Google Chrome",
+  "note": "Copy this file to config.local.json for local machine settings. DO NOT upload config.local.json to GitHub."
+}
